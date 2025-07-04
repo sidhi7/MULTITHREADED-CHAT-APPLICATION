@@ -1,3 +1,6 @@
+<img width="999" alt="Screenshot 2025-07-04 at 3 34 58 PM" src="https://github.com/user-attachments/assets/58fb541d-5989-4a4a-abf9-ceb18208f398" />
+
+
 # 🚀 Multi-Threaded Chat Application in Java
 
 ## 📚 Description
@@ -81,5 +84,4 @@ This project offers hands-on experience with:
 javac Server.java
 java Server
 
-<img width="999" alt="Screenshot 2025-07-04 at 3 34 58 PM" src="https://github.com/user-attachments/assets/58fb541d-5989-4a4a-abf9-ceb18208f398" />
 
